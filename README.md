@@ -70,6 +70,8 @@ cp wallet.json.example wallet.json
 2. Then open the file: `wallet.json`
 
 3. Paste your test wallet details (⚠️ never use your real wallet):
+
+![Octra Wallet Example](Octra1.png)
 ```json
 {
   "priv": "private key here",
