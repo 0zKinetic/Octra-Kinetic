@@ -94,5 +94,20 @@ python cli.py send --to octFLFMP2X8CxYWSWfYjUTuG9ssaA1GKgXtz6Hir5PZfQo4 --amount
 🟢 **That’s it!** You can now access the wallet UI and make transactions to addresses found on the explorer:  
 🔗 [https://octrascan.io](https://octrascan.io)
 
+---
+## 💙 TASK 2: TRY ENCRYPT / DECRYPT BALANCE FUNCTION
+
+#### 🔸 STEP 1: Follow Task 1 Steps & Open Wallet in Codespace
+
+---
+#### 🔸 STEP 2:
+![Octra Wallet Example](Octra-IMG.png)
+
+1. Use Command `4`  For Encrypt Balance
+2. Use Command `5`  For Decrypt Balance
+3. Use Command `6`  For Private Transfer
+4. Use Command `7`  For Claim
+
+Keep doing transactions weekly, So Better to do every task every week as they announce new updates
 
 ## 📢 JOIN TG FOR UPDATES: https://t.me/Kinetic23
